@@ -1,0 +1,1 @@
+# merchant-browsing-history-widget
